@@ -41,3 +41,18 @@ Create a class to use the shape Factory to print the specified message for Circl
 
 ### Link for output
 [Output](https://github.com/ShazaAllam2001/design_patterns/blob/main/factory_pattern/output)
+
+
+## Singleton Pattern
+
+### Link for Code
+[Code](https://github.com/ShazaAllam2001/design_patterns/blob/main/singleton_pattern)
+
+### Database Class
+It has one instance that can only be instanced using a private constructor called **_create** and use the method **getInstance** to get that object
+
+### Client Class
+It has one method that tests if it gives only one instance each time you use it by creating two instances of it.
+
+### Link for output
+[Output](https://github.com/ShazaAllam2001/design_patterns/blob/main/singleton_pattern/output)
